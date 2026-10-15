@@ -39,12 +39,12 @@
 ## Em números
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=borgesrit8&show_icons=true&bg_color=2e1020&title_color=ff7ab8&icon_color=ff2e93&text_color=ffe6f1&border_color=ff2e93&custom_title=EM%20N%C3%9AMEROS" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesrit8&layout=compact&bg_color=2e1020&title_color=ff7ab8&text_color=ffe6f1&border_color=ff2e93&custom_title=LINGUAGENS" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=borgesrit8&show_icons=true&bg_color=2e1020&title_color=ff7ab8&icon_color=ff2e93&text_color=ffe6f1&border_color=ff2e93&ring_color=ff2e93&custom_title=EM%20N%C3%9AMEROS&v=2" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borgesrit8&layout=compact&bg_color=2e1020&title_color=ff7ab8&text_color=ffe6f1&border_color=ff2e93&custom_title=LINGUAGENS&card_width=320&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=borgesrit8&background=2E1020&border=FF2E93&stroke=FF2E93&ring=FF2E93&fire=FF7AB8&currStrNum=FFFFFF&sideNums=FF2E93&currStrLabel=FF7AB8&sideLabels=F0BCD4&dates=D99AB8" />
+  <img src="https://streak-stats.demolab.com?user=borgesrit8&background=2E1020&border=FF2E93&stroke=FF2E93&ring=FF2E93&fire=FF7AB8&currStrNum=FFFFFF&sideNums=FF2E93&currStrLabel=FF7AB8&sideLabels=F0BCD4&dates=D99AB8&v=2" />
 </p>
 
 ## Atividade 
