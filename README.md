@@ -47,14 +47,10 @@
   <img src="https://streak-stats.demolab.com?user=borgesrit8&background=2E1020&border=FF2E93&stroke=FF2E93&ring=FF2E93&fire=FF7AB8&currStrNum=FFFFFF&sideNums=FF2E93&currStrLabel=FF7AB8&sideLabels=F0BCD4&dates=D99AB8" />
 </p>
 
-## Atividade · 30 dias
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=borgesrit8&bg_color=2e1020&color=f0bcd4&line=ff2e93&point=ffffff&area=true&area_color=ff2e93&title_color=ff7ab8&hide_border=true&custom_title=ATIVIDADE" />
-</p>
-
----
+## Atividade 
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff2e93&height=60&section=footer&text=FEITO%20COM%20C%C3%93DIGO%20E%20MUITO%20ROSA&fontSize=16&fontColor=3d0020" />
 </p>
+
+---
