@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=batalha-naval&bg_color=2e1020&title_color=ffffff&icon_color=ff2e93&text_color=f0bcd4&border_color=ff2e93&v=2" />
   </a>
   <a href="https://github.com/borgesrit8/website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=website&bg_color=2e1020&title_color=ffffff&icon_color=ff2e93&text_color=f0bcd4&border_color=ff2e93&v=2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=website&bg_color=2e1020&title_color=ffffff&icon_color=ff2e93&text_color=f0bcd4&border_color=ff2e93&v=3" />
   </a>
 </p>
 
