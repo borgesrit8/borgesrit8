@@ -16,8 +16,8 @@
 ## Sobre mim
 
 - **Estudo** · Engenharia Informática
-- **Estou a aprender** · Programação, bases de dados e modelação de dados
-- **Fora do código** · Fotógrafa de ralis: velocidade, pó e o momento perfeito
+- **Estou a aprender** · Programação, web, bases de dados e sistemas de informação
+- **Fora do código** · Fotógrafa de rallys: velocidade, pó e o momento perfeito
 - **Adoro** · Juntar tecnologia e criatividade, e dar estilo a tudo o que faço
 - **Fala comigo** · borgesrit8@gmail.com
 
@@ -26,10 +26,10 @@
 ## Projetos
 
 <p align="center">
-  <a href="https://github.com/borgesrit8/PROJETO_1">
+  <a href="https://github.com/borgesrit8/batalha-naval">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=batalha-naval&bg_color=2e1020&title_color=ffffff&icon_color=ff2e93&text_color=f0bcd4&border_color=ff2e93" />
   </a>
-  <a href="https://github.com/borgesrit8/PROJETO_2">
+  <a href="https://github.com/borgesrit8/website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=website&bg_color=2e1020&title_color=ffffff&icon_color=ff2e93&text_color=f0bcd4&border_color=ff2e93" />
   </a>
 </p>
