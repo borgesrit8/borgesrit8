@@ -50,7 +50,7 @@
 ## Atividade 
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff2e93&height=60&section=footer&text=FEITO%20COM%20C%C3%93DIGO%20E%20MUITO%20ROSA&fontSize=16&fontColor=3d0020" />
+  <img width="100%" src="https://ghchart.rshah.org/ff2e93/borgesrit8" />
 </p>
 
 ---
