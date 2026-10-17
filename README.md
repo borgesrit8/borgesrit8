@@ -30,12 +30,9 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h3>🌐 Portefólio Pessoal</h3>
-      <p>
-         Website dedicado à fotografia de rally,
-        reunindo registos de provas
-        e momentos do mundo do desporto automóvel.
-      </p>
+      <a href="https://github.com/borgesrit8/website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=website&bg_color=2e1020&title_color=ff7ab8&icon_color=ff2e93&text_color=ffe6f1&border_color=ff2e93&description_lines_count=3&show_owner=false&v=5" />
+      </a>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-ff2e93?style=flat-square&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/React-ff2e93?style=flat-square&logo=react&logoColor=white">
@@ -43,12 +40,9 @@
       <a href="https://photosb0.vercel.app/">Visitar Website</a>
     </td>
     <td width="50%" align="center">
-      <h3>⚓ Naval Clash</h3>
-      <p>
-        Jogo de Batalha Naval desenvolvido para Android,
-        com diferentes funcionalidades de jogo,
-        sistema de progressão e interface interativa.
-      </p>
+      <a href="https://github.com/borgesrit8/batalha-naval">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=batalha-naval&bg_color=2e1020&title_color=ff7ab8&icon_color=ff2e93&text_color=ffe6f1&border_color=ff2e93&description_lines_count=3&show_owner=false&v=5" />
+      </a>
       <p>
         <img src="https://img.shields.io/badge/React-ff2e93?style=flat-square&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/Capacitor-ff2e93?style=flat-square&logo=capacitor&logoColor=white">
@@ -58,7 +52,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## Em números
