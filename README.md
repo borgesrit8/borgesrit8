@@ -25,34 +25,39 @@
 
 ## Projetos
 
+<h2 align="center">Os Meus Projetos</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚓ Naval Clash</h3>
-      <p>Jogo de Batalha Naval para Android, desenvolvido com React e Capacitor, com funcionalidades de jogo, estatísticas e progressão.</p>
+    <td width="50%" align="center">
+      <h3>🌐 Portefólio Pessoal</h3>
       <p>
-        <strong>Tecnologias:</strong><br>
-        React · JavaScript · Vite · Capacitor · Firebase
+         Website dedicado à fotografia de rally,
+        reunindo registos de provas
+        e momentos do mundo do desporto automóvel.
       </p>
-      <a href="https://photosb0.vercel.app/">
-  Visitar website →
-</a>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-ff2e93?style=flat-square&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/React-ff2e93?style=flat-square&logo=react&logoColor=white">
+      </p>
+      <a href="https://photosb0.vercel.app/">Visitar Website</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>📸 Website de fotografia</h3>
-      <p>Website desenvolvido para apresentar os meus trabalhos de fotografia, com especial destaque para o rally e o motorsport.</p>
+    <td width="50%" align="center">
+      <h3>⚓ Naval Clash</h3>
       <p>
-        <strong>Tecnologias:</strong><br>
-        JavaScript · HTML · CSS
+        Jogo de Batalha Naval desenvolvido para Android,
+        com diferentes funcionalidades de jogo,
+        sistema de progressão e interface interativa.
       </p>
-      <a href="https://github.com/borgesrit8/website">
-        Ver código no GitHub →
-      </a>
+      <p>
+        <img src="https://img.shields.io/badge/React-ff2e93?style=flat-square&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/Capacitor-ff2e93?style=flat-square&logo=capacitor&logoColor=white">
+        <img src="https://img.shields.io/badge/Firebase-ff2e93?style=flat-square&logo=firebase&logoColor=white">
+      </p>
+      <p><i>Em desenvolvimento</i></p>
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -66,6 +71,15 @@
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=borgesrit8&show_icons=true&bg_color=2e1020&title_color=ff7ab8&icon_color=ff2e93&text_color=ffe6f1&border_color=ff2e93&ring_color=ff2e93&custom_title=EM%20N%C3%9AMEROS&v=3" />
   <img height="190" src="https://streak-stats.demolab.com?user=borgesrit8&background=2E1020&border=FF2E93&stroke=FF2E93&ring=FF2E93&fire=FF7AB8&currStrNum=FFFFFF&sideNums=FF2E93&currStrLabel=FF7AB8&sideLabels=F0BCD4&dates=D99AB8&v=3" />
 </p>
+---
+
+## Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,react,vite,html,css,firebase,git,github" />
+</p>
+
+---
 
 ## Atividade 
 
@@ -74,3 +88,6 @@
 </p>
 
 ---
+
+
+
