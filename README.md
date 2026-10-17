@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=20&duration=3000&pause=800&color=FF2E93&center=true&vCenter=true&width=520&lines=%3E+developer+em+constru%C3%A7%C3%A3o_;%3E+c%C3%B3digo+com+glitter_;%3E+bem-vinda+ao+meu+perfil_" />
+<img src="https://hits.sh/github.com/borgesrit8.svg?style=for-the-badge&label=VISITAS&color=ff2e93&labelColor=1c0a14" />
 </p>
 
 <p align="center">
