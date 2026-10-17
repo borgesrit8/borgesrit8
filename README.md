@@ -28,12 +28,8 @@
 <h2 align="center">Os Meus Projetos</h2>
 
 <p align="center">
-  <a href="https://photosb0.vercel.app/">
-    <img src="portfolio.svg" width="420" alt="Portefólio Pessoal" />
-  </a>
-  <a href="https://github.com/borgesrit8/batalha-naval">
-    <img src="naval-clash.svg" width="420" alt="Naval Clash" />
-  </a>
+  <a href="https://photosb0.vercel.app/"><img src="portfolio.svg" width="48%" alt="Portefólio Pessoal" /></a>
+  <a href="https://github.com/borgesrit8/batalha-naval"><img src="naval-clash.svg" width="48%" alt="Naval Clash" /></a>
 </p>
 
 ## Em números
