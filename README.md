@@ -24,7 +24,6 @@
 
 ## Projetos
 
-<h2 align="center">Os Meus Projetos</h2>
 
 <p align="center">
   <a href="https://photosb0.vercel.app/"><img src="portfolio.svg" width="48%" alt="Portefólio Pessoal" /></a>
