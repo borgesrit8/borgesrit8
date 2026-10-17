@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="230" viewBox="0 0 460 230" role="img" aria-label="Portefólio Pessoal: website de fotografia de rally">
+  <style>
+    .t { font: 600 20px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ff7ab8; }
+    .d { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ffe6f1; }
+    .b { font: 600 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ffffff; }
+    .l { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ff2e93; }
+  </style>
+  <rect x="0.5" y="0.5" width="459" height="229" rx="4.5" fill="#2e1020" stroke="#ff2e93"/>
+
+  <!-- ícone globo -->
+  <g transform="translate(25,26)" fill="none" stroke="#ff2e93" stroke-width="1.8">
+    <circle cx="11" cy="11" r="10"/>
+    <ellipse cx="11" cy="11" rx="4.5" ry="10"/>
+    <line x1="1" y1="11" x2="21" y2="11"/>
+  </g>
+  <text x="56" y="44" class="t">Portefólio Pessoal</text>
+
+  <text x="25" y="82" class="d">Website dedicado à fotografia de rally, reunindo</text>
+  <text x="25" y="103" class="d">registos de provas e momentos do mundo do</text>
+  <text x="25" y="124" class="d">desporto automóvel.</text>
+
+  <rect x="25" y="146" width="84" height="22" rx="3" fill="#ff2e93"/>
+  <text x="67" y="161.5" class="b" text-anchor="middle">JavaScript</text>
+  <rect x="117" y="146" width="60" height="22" rx="3" fill="#ff2e93"/>
+  <text x="147" y="161.5" class="b" text-anchor="middle">React</text>
+
+  <text x="25" y="204" class="l">Visitar website →</text>
+</svg>
