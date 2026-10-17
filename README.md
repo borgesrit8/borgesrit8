@@ -15,24 +15,44 @@
 
 ## Sobre mim
 
-- **Estudo** · Engenharia Informática
-- **Estou a aprender** · Programação, web, bases de dados e sistemas de informação
-- **Fora do código** · Fotógrafa de rallys: velocidade, pó e o momento perfeito
-- **Adoro** · Juntar tecnologia e criatividade, e dar estilo a tudo o que faço
+- 🎓 Engenharia Informática
+- 💻 Desenvolvimento web e aplicações Android
+- 🛠️ Projetos com React, JavaScript, C e outras tecnologias
+- 📸 Fotografia de rally e motorsport
 - **Fala comigo** · borgesrit8@gmail.com
 
 ---
 
 ## Projetos
 
-<p align="center">
-  <a href="https://github.com/borgesrit8/batalha-naval">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=batalha-naval&bg_color=2e1020&title_color=ffffff&icon_color=ff2e93&text_color=f0bcd4&border_color=ff2e93&description_lines_count=2&v=4" />
-  </a>
-  <a href="https://github.com/borgesrit8/website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=borgesrit8&repo=website&bg_color=2e1020&title_color=ffffff&icon_color=ff2e93&text_color=f0bcd4&border_color=ff2e93&description_lines_count=2&v=4" />
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚓ Naval Clash</h3>
+      <p>Jogo de Batalha Naval para Android, desenvolvido com React e Capacitor, com funcionalidades de jogo, estatísticas e progressão.</p>
+      <p>
+        <strong>Tecnologias:</strong><br>
+        React · JavaScript · Vite · Capacitor · Firebase
+      </p>
+      <a href="https://photosb0.vercel.app/">
+  Visitar website →
+</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📸 Website de fotografia</h3>
+      <p>Website desenvolvido para apresentar os meus trabalhos de fotografia, com especial destaque para o rally e o motorsport.</p>
+      <p>
+        <strong>Tecnologias:</strong><br>
+        JavaScript · HTML · CSS
+      </p>
+      <a href="https://github.com/borgesrit8/website">
+        Ver código no GitHub →
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
