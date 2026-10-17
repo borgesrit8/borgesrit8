@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-<img src="https://hits.sh/github.com/borgesrit8.svg?style=for-the-badge&label=VISITAS&color=ff2e93&labelColor=1c0a14" />
+  <img src="https://img.shields.io/badge/A%20PROGRAMAR%20COM%20ESTILO-1c0a14?style=for-the-badge&labelColor=1c0a14&color=ff2e93" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/A%20PROGRAMAR%20COM%20ESTILO-1c0a14?style=for-the-badge&labelColor=1c0a14&color=ff2e93" />
-  <img src="https://komarev.com/ghpvc/?username=borgesrit8&color=ff2e93&style=for-the-badge&label=VISITAS" />
+  <img src="https://hits.sh/github.com/borgesrit8.svg?style=for-the-badge&label=VISITAS&color=ff2e93&labelColor=1c0a14" />
 </p>
 
 
