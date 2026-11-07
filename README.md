@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://photosb0.vercel.app/"><img src="portfolio.svg" width="48%" alt="Portefólio Pessoal" /></a>
-  <a href="https://github.com/borgesrit8/batalha-naval"><img src="naval-clash.svg" width="48%" alt="Naval Clash" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ritaborges.navalclash"><img src="naval-clash.svg" width="48%" alt="Naval Clash" /></a>
 </p>
 
 ## Em números
